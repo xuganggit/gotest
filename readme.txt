@@ -1,2 +1,2 @@
 hello
-修改readme from for conflict fix
+修改个bug
